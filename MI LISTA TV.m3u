@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png"
-
+#EXTINF:-1, telesarra
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1  group-title="", Azteca 7
 http://flash.shortgod.com/cocoli/tv2.php?id=1&token=ShortGod&file=.m3u8
 #EXTINF:-1  group-title="", Canal 5
