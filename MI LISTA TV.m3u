@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png"
+
+#EXTINF:-1  group-title="", Azteca 7
+http://flash.shortgod.com/cocoli/tv2.php?id=1&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Canal 5
+http://flash.shortgod.com/cocoli/tv2.php?id=2&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TUDN
+http://flash.shortgod.com/cocoli/tv2.php?id=3&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Gol TV
+http://flash.shortgod.com/cocoli/tv2.php?id=7&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TNT SPORTS
+http://flash.shortgod.com/cocoli/tv2.php?id=9&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn Premium
+http://flash.shortgod.com/cocoli/tv2.php?id=10&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TYC SPORTS
+http://flash.shortgod.com/cocoli/tv2.php?id=11&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", FOX SPORTS
+http://flash.shortgod.com/cocoli/tv2.php?id=12&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports 2
+http://flash.shortgod.com/cocoli/tv2.php?id=13&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports 3
+http://flash.shortgod.com/cocoli/tv2.php?id=14&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn Deportes
+http://flash.shortgod.com/cocoli/tv2.php?id=15&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn Xtra
+http://flash.shortgod.com/cocoli/tv2.php?id=16&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Directv Sports
+http://flash.shortgod.com/cocoli/tv2.php?id=20&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Directv Sports 2
+http://flash.shortgod.com/cocoli/tv2.php?id=21&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Directv Sports Plus
+http://flash.shortgod.com/cocoli/tv2.php?id=22&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Bein La Liga
+http://flash.shortgod.com/cocoli/tv2.php?id=23&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports Mexico
+http://flash.shortgod.com/cocoli/tv2.php?id=24&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports 2 Mexico
+http://flash.shortgod.com/cocoli/tv2.php?id=25&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports 3 Mexico
+http://flash.shortgod.com/cocoli/tv2.php?id=26&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn Mexico
+http://flash.shortgod.com/cocoli/tv2.php?id=27&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn 2 Mexico
+http://flash.shortgod.com/cocoli/tv2.php?id=28&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn 3 Mexico
+http://flash.shortgod.com/cocoli/tv2.php?id=29&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Afizzionados
+http://flash.shortgod.com/cocoli/tv2.php?id=30&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Telemundo Miami
+http://flash.shortgod.com/cocoli/tv2.php?id=48&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Las Estrellas
+http://flash.shortgod.com/cocoli/tv2.php?id=57&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TUDN Xtra
+http://flash.shortgod.com/cocoli/tv2.php?id=60&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Golden Edge
+http://flash.shortgod.com/cocoli/tv2.php?id=74&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Dpelicula Plus
+http://flash.shortgod.com/cocoli/tv2.php?id=85&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", MTV
+http://flash.shortgod.com/cocoli/tv2.php?id=87&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Bandamax
+http://flash.shortgod.com/cocoli/tv2.php?id=90&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Azteca TV
+http://flash.shortgod.com/cocoli/tv2.php?id=122&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Chavo 24\/7
+http://flash.shortgod.com/cocoli/tv2.php?id=150&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn 4
+http://flash.shortgod.com/cocoli/tv2.php?id=167&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Dragon Ball Super 24/7
+http://flash.shortgod.com/cocoli/tv2.php?id=191&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TUDN Usa
+http://flash.shortgod.com/cocoli/tv2.php?id=200&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Golden
+http://flash.shortgod.com/cocoli/tv2.php?id=202&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Los Simpson 24\/7
+http://flash.shortgod.com/cocoli/tv2.php?id=329&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Chespirito 24/7
+http://flash.shortgod.com/cocoli/tv2.php?id=355&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Coyote Y Corre Caminos 24/7
+http://flash.shortgod.com/cocoli/tv2.php?id=357&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", WWE Kick OFF
+http://flash.shortgod.com/cocoli/tv2.php?id=363&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports Premium
+http://flash.shortgod.com/cocoli/tv2.php?id=364&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Dpelicula
+http://flash.shortgod.com/cocoli/tv2.php?id=370&token=ShortGod&file=.m3u8
