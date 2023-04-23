@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Hulk (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5D1Tku9nfD5JjB9sLdotxTtTRw9.jpg" group-title="Por Clasificar",Hulk (2003)
+http://elmonkey.us:25461/movie/Victor/Victor/107802.mkv
+
+#EXTINF:-1 tvg-id="I218.61854.schedulesdirect.org" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="DEPORTES",GOLF CHANNEL
+http://elmonkey.us:25461/Victor/Victor/12
+#EXTINF:-1 tvg-id="I14.108507.schedulesdirect.org" tvg-name="AFIZZIONADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES",AFIZZIONADOS
+http://elmonkey.us:25461/Victor/Victor/15
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BEIN SPORTS Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",BEIN SPORTS Ñ
+http://elmonkey.us:25461/Victor/Victor/28
+#EXTINF:-1 tvg-id="I297.41677.schedulesdirect.org" tvg-name="FOX SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1312112437005635585/MTzEo4fv_400x400.png" group-title="DEPORTES",FOX SPORTS
+http://elmonkey.us:25461/Victor/Victor/77
+#EXTINF:-1 tvg-id="I301.66365.schedulesdirect.org" tvg-name="FOX SPORTS 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="DEPORTES",FOX SPORTS 2
+http://elmonkey.us:25461/Victor/Victor/78
+#EXTINF:-1 tvg-id="I304.105006.schedulesdirect.org" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="DEPORTES",FOX SPORTS 3
+http://elmonkey.us:25461/Victor/Victor/79
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="" group-title="DEPORTES",FOX SPORTS PREMIUM
+http://elmonkey.us:25461/Victor/Victor/117029
+#EXTINF:-1 tvg-id="I468.32161.schedulesdirect.org" tvg-name="GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOL TV
+http://elmonkey.us:25461/Victor/Victor/84
+#EXTINF:-1 tvg-id="I658.107365.schedulesdirect.org" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports
+http://elmonkey.us:25461/Victor/Victor/243
+#EXTINF:-1 tvg-id="" tvg-name="WINSPORTS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="DEPORTES",WINSPORTS PLUS
+http://elmonkey.us:25461/Victor/Victor/267
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN USA
+http://elmonkey.us:25461/Victor/Victor/73545
+#EXTINF:-1 tvg-id="elevensports.us" tvg-name="Eleven Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="DEPORTES",Eleven Sports
+#EXTINF:-1 tvg-id="I681.57580.schedulesdirect.org" tvg-name="TVC Deportes" tvg-logo="https://www.seekpng.com/png/detail/297-2976535_deportes-tvc-deportes-2-logo.png" group-title="DEPORTES",TVC Deportes
+http://elmonkey.us:25461/Victor/Victor/347
+#EXTINF:-1 tvg-id="tycsports.us" tvg-name="TyC Sports" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTES",TyC Sports
+http://elmonkey.us:25461/Victor/Victor/348
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
+http://elmonkey.us:25461/Victor/Victor/349
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="DEPORTES",DIRECTV SPORTS
+http://elmonkey.us:25461/Victor/Victor/350
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS 1
+http://elmonkey.us:25461/Victor/Victor/117091
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS 2
+http://elmonkey.us:25461/Victor/Victor/117090
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS +" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS +
+http://elmonkey.us:25461/Victor/Victor/117092
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports FHD" tvg-logo="" group-title="DEPORTES",Claro Sports FHD
+http://elmonkey.us:25461/Victor/Victor/117132
+#EXTINF:-1 tvg-id="I530.83162.schedulesdirect.org" tvg-name="Adrenalina Sport Network" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/adrenalina-sports-network-2123.png" group-title="DEPORTES",Adrenalina Sport Network
+http://elmonkey.us:25461/Victor/Victor/353
+#EXTINF:-1 tvg-id="I392.76950.schedulesdirect.org" tvg-name="beIN Sports" tvg-logo="https://i.pinimg.com/originals/e3/4d/1f/e34d1fc9ac83767e8fbd67ffe3ff7234.png" group-title="DEPORTES",beIN Sports
+http://elmonkey.us:25461/Victor/Victor/354
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="https://plazatoros.tv/assets-new/images/Logo-Plaza-Toros-1.png" group-title="DEPORTES",TOROS TV
+http://elmonkey.us:25461/Victor/Victor/372
+#EXTINF:-1 tvg-id="I495.109784.schedulesdirect.org" tvg-name="REAL MADRID TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg" group-title="DEPORTES",REAL MADRID TV
+http://elmonkey.us:25461/Victor/Victor/373
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",GOL PERU
+http://elmonkey.us:25461/Victor/Victor/686
+#EXTINF:-1 tvg-id="wapa2deportes.us" tvg-name="WAPA 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/7782/brand.gif" group-title="DEPORTES",WAPA 2
+http://elmonkey.us:25461/Victor/Victor/704
+#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="Red Bull TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/red-bull-tv.png" group-title="DEPORTES",Red Bull TV
+http://elmonkey.us:25461/Victor/Victor/1304
+#EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png" group-title="DEPORTES",FS2
+http://elmonkey.us:25461/Victor/Victor/1308
+#EXTINF:-1 tvg-id="I677.72861.schedulesdirect.org" tvg-name="Longhorn Network" tvg-logo="https://tongal.s3.amazonaws.com/sponsor/2016/07/06/212x212Logo.png" group-title="DEPORTES",Longhorn Network
+http://elmonkey.us:25461/Victor/Victor/1408
+#EXTINF:-1 tvg-id="I213.62079.schedulesdirect.org" tvg-name="MLB Network" tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2020/08/MLB-Network-e1596805634153.png" group-title="DEPORTES",MLB Network
+http://elmonkey.us:25461/Victor/Victor/1409
+#EXTINF:-1 tvg-id="I445.32281.schedulesdirect.org" tvg-name="NBA TV" tvg-logo="https://cdn.mitvstatic.com/channels/co_nba-tv-hd_m.png" group-title="DEPORTES",NBA TV
+http://elmonkey.us:25461/Victor/Victor/1418
+#EXTINF:-1 tvg-id="I212.34710.schedulesdirect.org" tvg-name="NFL Network" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2020/09/NFL.png" group-title="DEPORTES",NFL Network
+http://elmonkey.us:25461/Victor/Victor/1431
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL Red Zone" tvg-logo="https://www.soda.com/wp-content/uploads/2017/08/watch-nfl-redzone-online.png" group-title="DEPORTES",NFL Red Zone
+http://elmonkey.us:25461/Victor/Victor/1432
+#EXTINF:-1 tvg-id="I215.58570.schedulesdirect.org" tvg-name="NHL Network" tvg-logo="https://www.nicepng.com/png/detail/221-2217426_nhl-network-logo-png.png" group-title="DEPORTES",NHL Network
+http://elmonkey.us:25461/Victor/Victor/1433
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="SEC Network" tvg-logo="https://seeklogo.com/images/S/sec-espn-logo-6D43D86EF6-seeklogo.com.png" group-title="DEPORTES",SEC Network
+http://elmonkey.us:25461/Victor/Victor/1446
+#EXTINF:-1 tvg-id="I602.21345.schedulesdirect.org" tvg-name="TVG" tvg-logo="https://image.roku.com/developer_channels/prod/e2a62f4c55e6608943ed31dacd5309fed24f60304f6fa8c78e57ecf1d5c54623.png" group-title="DEPORTES",TVG
+http://elmonkey.us:25461/Victor/Victor/1468
+#EXTINF:-1 tvg-id="" tvg-name="Wolrd Fishing Network" tvg-logo="http://www.outdoorsg.com/wp-content/uploads/2014/10/logo-desktop-blue.png" group-title="DEPORTES",Wolrd Fishing Network
+http://elmonkey.us:25461/Victor/Victor/1476
+#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-name="WWE Network" tvg-logo="https://pngset.com/images/wwe-network-logo-wallpaper-pc-wwe-network-logo-wallpapers-logo-wwe-network-poster-advertisement-flyer-brochure-transparent-png-1123841.png" group-title="DEPORTES",WWE Network
+http://elmonkey.us:25461/Victor/Victor/1478
+#EXTINF:-1 tvg-id="I624.104186.schedulesdirect.org" tvg-name=" OLYMPIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/1024px-Olympic_Channel_logo.png" group-title="DEPORTES", OLYMPIC CHANNEL
+http://elmonkey.us:25461/Victor/Victor/1501
+#EXTINF:-1 tvg-id="pac12washington.us" tvg-name="Pac-12 Washington" tvg-logo="https://static.pac-12.com/images/logos/pac-12-washington-logo.png" group-title="DEPORTES",Pac-12 Washington
+http://elmonkey.us:25461/Victor/Victor/1514
+#EXTINF:-1 tvg-id="pac12losangeles.us" tvg-name="USA | Pac-12 Los Angeles" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/882cc84/2147483647/strip/true/crop/2048x1365+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbf%2Ff1%2F4bc998674a19bc6ec979ddcb11db%2Fpac12.png" group-title="DEPORTES",USA | Pac-12 Los Angeles
+http://elmonkey.us:25461/Victor/Victor/1515
+#EXTINF:-1 tvg-id="pac12bayarea.us" tvg-name="USA | Pac-12 Bay Area" tvg-logo="https://sport-tv-guide.live/images/stations/a1879.png" group-title="DEPORTES",USA | Pac-12 Bay Area
+http://elmonkey.us:25461/Victor/Victor/1516
+#EXTINF:-1 tvg-id="pac12arizona.us" tvg-name="USA | Pac-12 Arizona" tvg-logo="https://static.pac-12.com/images/logos/pac-12-arizona-logo.png" group-title="DEPORTES",USA | Pac-12 Arizona
+http://elmonkey.us:25461/Victor/Victor/1517
+
+#EXTINF:-1 tvg-id="I164.61404.schedulesdirect.org" tvg-name="AZ CORAZON" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="Mexico",AZ CORAZON
+http://elmonkey.us:25461/Victor/Victor/23
+#EXTINF:-1 tvg-id="I432.79968.schedulesdirect.org" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="Mexico",AZ MUNDO
+http://elmonkey.us:25461/Victor/Victor/24
+#EXTINF:-1 tvg-id="I103.47604.schedulesdirect.org" tvg-name="AZTECA 7" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",AZTECA 7
+http://elmonkey.us:25461/Victor/Victor/26
+#EXTINF:-1 tvg-id="I433.54867.schedulesdirect.org" tvg-name="BANDAMAX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="Mexico",BANDAMAX
+http://elmonkey.us:25461/Victor/Victor/27
+#EXTINF:-1 tvg-id="I298.21883.schedulesdirect.org" tvg-name="BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/pe_boomerang-cartoon_m.png" group-title="Mexico",BOOMERANG
+http://elmonkey.us:25461/Victor/Victor/30
+#EXTINF:-1 tvg-id="I463.36139.schedulesdirect.org" tvg-name="CANAL ONCE" tvg-logo="https://hobbitmemes.com/wp-content/uploads/2020/10/1-24.png" group-title="Mexico",CANAL ONCE
+http://elmonkey.us:25461/Victor/Victor/31
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg" group-title="Mexico",CANAL 5
+http://elmonkey.us:25461/Victor/Victor/32
+#EXTINF:-1 tvg-id="I390.16461.schedulesdirect.org" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="Mexico",CANAL DE LAS ESTRELLAS
+http://elmonkey.us:25461/Victor/Victor/33
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | MILENIO TV" tvg-logo="" group-title="Mexico",MILENIO TV
+http://elmonkey.us:25461/Victor/Victor/106377
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | RCG SALTILLO" tvg-logo="" group-title="Mexico",RCG SALTILLO
+http://elmonkey.us:25461/Victor/Victor/106378
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | INGENIO TV" tvg-logo="" group-title="Mexico",INGENIO TV
+http://elmonkey.us:25461/Victor/Victor/106379
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO : TNT SPORTS" tvg-logo="" group-title="Mexico",TNT SPORTS
+http://elmonkey.us:25461/Victor/Victor/106380
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | TELEVISA MONTERREY" tvg-logo="" group-title="Mexico",TELEVISA MONTERREY
+http://elmonkey.us:25461/Victor/Victor/106381
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | CANAL 4 NRT" tvg-logo="" group-title="Mexico",CANAL 4 NRT
+http://elmonkey.us:25461/Victor/Victor/106382
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | MULTIMEDIOS MONTERREY" tvg-logo="" group-title="Mexico",MULTIMEDIOS MONTERREY
+http://elmonkey.us:25461/Victor/Victor/106383
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | MULTIMEDIOS TORREON" tvg-logo="" group-title="Mexico",MULTIMEDIOS TORREON
+http://elmonkey.us:25461/Victor/Victor/106384
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | RCG" tvg-logo="" group-title="Mexico",RCG
+http://elmonkey.us:25461/Victor/Victor/106385
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | RCG 2" tvg-logo="" group-title="Mexico",RCG 2
+http://elmonkey.us:25461/Victor/Victor/106386
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | RCG 3" tvg-logo="" group-title="Mexico",RCG 3
+http://elmonkey.us:25461/Victor/Victor/106387
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | CANAL 6 NRT" tvg-logo="" group-title="Mexico",CANAL 6 NRT
+http://elmonkey.us:25461/Victor/Victor/106388
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | CANAL 24 NRT" tvg-logo="" group-title="Mexico",CANAL 24 NRT
+http://elmonkey.us:25461/Victor/Victor/106389
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | TV MAS" tvg-logo="" group-title="Mexico",TV MAS
+http://elmonkey.us:25461/Victor/Victor/106390
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | ULTRA PUEBLA" tvg-logo="" group-title="Mexico",ULTRA PUEBLA
+http://elmonkey.us:25461/Victor/Victor/106391
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | TELEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="Mexico",TELEMAX
+http://elmonkey.us:25461/Victor/Victor/106392
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | JALISCO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jalisco-TV_logotype.png/640px-Jalisco-TV_logotype.png" group-title="Mexico",JALISCO TV
+http://elmonkey.us:25461/Victor/Victor/106393
+
+#EXTINF:-1 tvg-id="I190.19234.schedulesdirect.org" tvg-name="DISNEY CHANNEL" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/1280px-disney-channel-logosvg_gyjq.png" group-title="Mexico",DISNEY CHANNEL
+http://elmonkey.us:25461/Victor/Victor/54
+#EXTINF:-1 tvg-id="I289.74796.schedulesdirect.org" tvg-name="DISNEY JR" tvg-logo="https://tvguide1.cbsistatic.com/i/r/2012/01/09/c1b0244d-3161-4fb1-b84c-2015df8542e1/resize/300x206/64a208d9f1b4287fef75691852500699/120109disney-junior-logo1.jpg" group-title="Mexico",DISNEY JR
+http://elmonkey.us:25461/Victor/Victor/55
+#EXTINF:-1 tvg-id="I195.16563.schedulesdirect.org" tvg-name="DISNEY XD" tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="Mexico",DISNEY XD
+http://elmonkey.us:25461/Victor/Victor/56
+#EXTINF:-1 tvg-id="I197.55980.schedulesdirect.org" tvg-name="DISTRITO COMEDIA" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/distrito-comedia_televisa_big.jpg" group-title="Mexico",DISTRITO COMEDIA
+http://elmonkey.us:25461/Victor/Victor/57
+
+#EXTINF:-1 tvg-id="" tvg-name="A Más (480p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="MEXICO | EXTRA",A Más (480p) [Geo-blocked]
+http://elmonkey.us:25461/Victor/Victor/103099
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 (480p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO | EXTRA",ADN 40 (480p)
+http://elmonkey.us:25461/Victor/Victor/103100
+#EXTINF:-1 tvg-id="" tvg-name="Agrotendencia TV (1080p)" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="MEXICO | EXTRA",Agrotendencia TV (1080p)
+http://elmonkey.us:25461/Victor/Victor/103101
+#EXTINF:-1 tvg-id="" tvg-name="AMX Noticias (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO | EXTRA",AMX Noticias (720p) [Not 24/7]
+http://elmonkey.us:25461/Victor/Victor/103102
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO | EXTRA",Azteca Uno (720p) [Geo-blocked]
+http://elmonkey.us:25461/Victor/Victor/103104
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 (480p)" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="MEXICO | EXTRA",Canal 5 (480p)
+http://elmonkey.us:25461/Victor/Victor/103107
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network México (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="MEXICO | EXTRA",Cartoon Network México (720p)
+http://elmonkey.us:25461/Victor/Victor/103119
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito México (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="MEXICO | EXTRA",Cartoonito México (720p)
+http://elmonkey.us:25461/Victor/Victor/103120
+#EXTINF:-1 tvg-id="" tvg-name="DW Español (1080p)" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="MEXICO | EXTRA",DW Español (1080p)
+http://elmonkey.us:25461/Victor/Victor/103126
+#EXTINF:-1 tvg-id="" tvg-name="El Histonauta TV (360p)" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="MEXICO | EXTRA",El Histonauta TV (360p)
+http://elmonkey.us:25461/Victor/Victor/103129
+#EXTINF:-1 tvg-id="" tvg-name="Estrella Games (1080p)" tvg-logo="" group-title="MEXICO | EXTRA",Estrella Games (1080p)
+http://elmonkey.us:25461/Victor/Victor/103136
+#EXTINF:-1 tvg-id="" tvg-name="Estrella News (1080p)" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO | EXTRA",Estrella News (1080p)
+http://elmonkey.us:25461/Victor/Victor/103137
+#EXTINF:-1 tvg-id="" tvg-name="Estrella News (1080p)" tvg-logo="" group-title="MEXICO | EXTRA",Estrella News (1080p)
+http://elmonkey.us:25461/Victor/Victor/103138
+#EXTINF:-1 tvg-id="" tvg-name="Estrella TV (1080p)" tvg-logo="" group-title="MEXICO | EXTRA",Estrella TV (1080p)
+http://elmonkey.us:25461/Victor/Victor/103139
+#EXTINF:-1 tvg-id="" tvg-name="HispanTV (480p)" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="MEXICO | EXTRA",HispanTV (480p)
+http://elmonkey.us:25461/Victor/Victor/103150
+#EXTINF:-1 tvg-id="" tvg-name="Lo Mejor De La Liga MX" tvg-logo="" group-title="MEXICO | EXTRA",Lo Mejor De La Liga MX
+http://elmonkey.us:25461/Victor/Victor/103155
+#EXTINF:-1 tvg-id="" tvg-name="México Travel Channel (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/HaCLt6e.png" group-title="MEXICO | EXTRA",México Travel Channel (480p) [Not 24/7]
+http://elmonkey.us:25461/Victor/Victor/103158
+#EXTINF:-1 tvg-id="" tvg-name="Milenio Televisión Noroeste (720p) [Not 24/7]" tvg-logo="" group-title="MEXICO | EXTRA",Milenio Televisión Noroeste (720p) [Not 24/7]
+http://elmonkey.us:25461/Victor/Victor/103160
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Guadalajara (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/0bznKvP.jpg" group-title="MEXICO | EXTRA",Multimedios Guadalajara (720p) [Geo-blocked]
+http://elmonkey.us:25461/Victor/Victor/103166
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Monterrey (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/7OHMuRl.png" group-title="MEXICO | EXTRA",Multimedios Monterrey (720p) [Geo-blocked]
+http://elmonkey.us:25461/Victor/Victor/103168
+#EXTINF:-1 tvg-id="" tvg-name="N+ Media-Televisa News México (1080p)" tvg-logo="https://i.imgur.com/o8Y8gmf.png" group-title="MEXICO | EXTRA",N+ Media-Televisa News México (1080p)
+http://elmonkey.us:25461/Victor/Victor/103175
+#EXTINF:-1 tvg-id="" tvg-name="Presumiendo México (720p)" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="MEXICO | EXTRA",Presumiendo México (720p)
+http://elmonkey.us:25461/Victor/Victor/103186
+#EXTINF:-1 tvg-id="" tvg-name="Telemax (XEWH-TDT) (720p)" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="MEXICO | EXTRA",Telemax (XEWH-TDT) (720p)
+http://elmonkey.us:25461/Victor/Victor/103204
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Guadalajara (1080p)" tvg-logo="https://i.imgur.com/Vp4B0BM.jpg" group-title="MEXICO | EXTRA",Televisa Guadalajara (1080p)
+http://elmonkey.us:25461/Victor/Victor/103209
+#EXTINF:-1 tvg-id="" tvg-name="TVP (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cwzvctB.png" group-title="MEXICO | EXTRA",TVP (720p) [Not 24/7]
+http://elmonkey.us:25461/Victor/Victor/103227
+#EXTINF:-1 tvg-id="" tvg-name="TVP Culiacán (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/iuaYGK2.png" group-title="MEXICO | EXTRA",TVP Culiacán (720p) [Not 24/7]
+http://elmonkey.us:25461/Victor/Victor/103228
+#EXTINF:-1 tvg-id="" tvg-name="TVP Los Mochis (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/b6rNKeU.png" group-title="MEXICO | EXTRA",TVP Los Mochis (720p) [Not 24/7]
+http://elmonkey.us:25461/Victor/Victor/103229
+#EXTINF:-1 tvg-id="" tvg-name="TVP Obregón (542p) [Not 24/7]" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="MEXICO | EXTRA",TVP Obregón (542p) [Not 24/7]
+http://elmonkey.us:25461/Victor/Victor/103230
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball z" tvg-logo="" group-title="24/7",24/7 Dragon Ball z
+http://elmonkey.us:25461/Victor/Victor/91074
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PRINCIPE DEL RAP" tvg-logo="" group-title="24/7",24/7 EL PRINCIPE DEL RAP
+http://elmonkey.us:25461/Victor/Victor/91076
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="" group-title="24/7",24/7 | The Big Bang Theory
+http://elmonkey.us:25461/Victor/Victor/91077
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL SODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL SODIACO
+http://elmonkey.us:25461/Victor/Victor/91079
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MASINGERZ" tvg-logo="" group-title="24/7",24/7 MASINGERZ
+http://elmonkey.us:25461/Victor/Victor/91080
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="" group-title="24/7",24/7 SUPER CAMPEONES
+http://elmonkey.us:25461/Victor/Victor/91081
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://elmonkey.us:25461/Victor/Victor/91082
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MALCOLM" tvg-logo="" group-title="24/7",24/7 MALCOLM
+http://elmonkey.us:25461/Victor/Victor/91083
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chapulín Colorado" tvg-logo="" group-title="24/7",24/7 | El Chapulín Colorado
+http://elmonkey.us:25461/Victor/Victor/91092
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 | ROSA DE GUADALUPE
+http://elmonkey.us:25461/Victor/Victor/91093
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CAR | Dinosaurios" tvg-logo="" group-title="24/7",24/7 CAR | Dinosaurios
+http://elmonkey.us:25461/Victor/Victor/91095
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CAR | Looney Tunes" tvg-logo="" group-title="24/7",24/7 CAR | Looney Tunes
+http://elmonkey.us:25461/Victor/Victor/91097
+#EXTINF:-1 tvg-id="" tvg-name="24/7 peppa pig" tvg-logo="" group-title="24/7",24/7 peppa pig
+http://elmonkey.us:25461/Victor/Victor/91099
