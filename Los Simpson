@@ -1,5 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Temporada 06", Los Simpson - S06E02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://wpvsahsvl0yo.silverlakewellnesscenter.sbs/zYjLr97w4SMM/hls3/01/01124/e2en5l55runp_h/index-a1.txt
+#EXTINF:-1 tvg-logo="https://bit.ly/3SimpsonLogo" group-title="Los Simpson 24/7", Los Simpson (Canal Continuo)
+http://165.227.35.234/loadbalance/ossimpsons/playlist.m3u8
