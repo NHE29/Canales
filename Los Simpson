@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3SimpsonLogo" group-title="Los Simpson 24/7", Los Simpson (Canal Continuo)
-http://165.227.35.234/loadbalance/ossimpsons/playlist.m3u8
+
+#EXTINF:-1 group-title="Temporada 06", S06E01 - Bart de oscuridad
+https://archive.org/download/thesimpletons2/The.Simpsons.S06E01.mp4
+
+#EXTINF:-1 group-title="Temporada 06", S06E02 - La rival de Lisa
+https://archive.org/download/thesimpletons2/The.Simpsons.S06E02.mp4
